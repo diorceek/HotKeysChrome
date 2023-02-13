@@ -9,7 +9,7 @@
 9)  Oldinga qaytish                                   Alt  + ->
 10) Oynani yopish                                     Ctrl + W / Ctrl + F4
 11) Tarixni ochish                                    Ctrl + H
-12) Yuklanishlar oynasini ochish	            Ctrl + J
+12) Yuklanishlar oynasini ochish	             Ctrl + J
 13) Qayta yuklash                                     Ctrl + R / F5
 14) Sayt kodi yozilgan oynani ochish	  	      Ctrl + U
 
